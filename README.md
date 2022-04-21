@@ -1,5 +1,5 @@
 # askamanagersurvey
-Cleaning survey based dataset
+A table filled with "dirty data". 
 
 
 22.01.22:
